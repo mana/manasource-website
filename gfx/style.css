@@ -1,0 +1,87 @@
+
+body {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Verdana', sans-serif;
+}
+
+#area {
+    text-align:left;
+    margin: 0 auto;
+    width: 742px;
+}
+
+#main {
+    border: 1px solid black;
+    width: 700px;
+    padding: 20px;
+    margin: 20px auto 20px auto;
+    /*-moz-border-radius: 10px;*/
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    background-color: #fbf4e2;
+}
+
+#w3cfooter {
+    text-align: right;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#menu {
+    float: right;
+    margin: 60px 0px 0px 0px;
+    padding: 0px;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#menu li {
+    float: left;
+    display: block;
+    margin: 0px 0px 0px 10px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    /*-moz-border-radius: 5px;*/
+}
+
+#menu li a:hover {
+    background-color: #d9d0b8;
+}
+
+#menu li a.current {
+    background-color: #e6dfcf;
+}
+
+#menu li a.current:hover {
+    background-color: #d9d0b8;
+}
+
+div.block {
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 20px 0px 0px 0px;
+    /*-moz-border-radius: 10px;*/
+    font-size: 12px;
+    background-color: white;
+}
