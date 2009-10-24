@@ -1,3 +1,13 @@
+<div class="section">
+    <div class="header">Manasource.de</div>
+    <div class="body">
+    <p>
+    Dies ist die deutsche Webseite des Projekts <a href="http://manasource.org"
+    target="_blank">manasource.org</a>. Beide Seiten befinden sich momentan im
+    Aufbau, daher ist hier auch noch nichts &uuml;bersetzt...
+    </p>
+    </div>
+</div>
    
 <div class="section">
     <div class="header">About The Mana Project</div>

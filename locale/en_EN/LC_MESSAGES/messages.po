@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: manasource.org\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-24 12:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andreas Habel <mail@exceptionfault.de>\n"
+"Language-Team:  <mail@exceptionfault.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /dev/mana/manasource.de/www/www\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: system/application/views/layout/navigation.php:7
+msgid "Home"
+msgstr "Home"
+
+#: system/application/views/layout/navigation.php:8
+msgid "Development"
+msgstr "Development"
+
+#: system/application/views/layout/navigation.php:13
+msgid "Downloads"
+msgstr "Downloads"
+

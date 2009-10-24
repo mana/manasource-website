@@ -3,7 +3,7 @@
 color definitions:
     orange in logo:     #ff6600;
     gray in logo:       #919191;
-    background:         fbf4e2;
+    background:         #fffcf2;
 */
 
 body {
@@ -31,10 +31,11 @@ body {
     width: 900px;
     padding: 20px;
     margin: 20px auto 20px auto;
-    /*-moz-border-radius: 10px;*/
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
     border-right-width: 2px;
     border-bottom-width: 2px;
-    background-color: #fbf4e2;
+    background-color: #fffcf2;
 }
 
 
@@ -94,7 +95,7 @@ h3 {
 #content div.section div.header
 {
     text-align: left;
-    color: #ff6600;
+    color: #000000;
     font-weight: bold;
     padding: 5px 0px 0px 10px;
     background-image: url(content-head-bg.png);
@@ -110,20 +111,26 @@ h3 {
     margin: 0px 0px 0px 0px;
     font-size: 12px;
     background-color: white;
+    -moz-border-radius-topright: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+
+    -webkit-border-radius-topright: 10px;
+    -webkit-border-radius-bottomright: 10px;
+    -webkit-border-radius-bottomleft: 10px;
 }
 
 /* Navigation */
 #navigation div.section
 {
     margin: 20px 0px 0px 10px;
-    /*-moz-border-radius: 10px;*/
     font-size: 14px;
 }
 
 #navigation div.section div.header
 {
     text-align: right;
-    color: #ff6600;
+    color: #000000;
     font-weight: bold;
     padding: 5px 10px 0px 0px;
     background-image: url(nav-head-bg.png);
@@ -138,6 +145,13 @@ h3 {
     border: 1px solid gray;
     padding: 5px 10px 5px 5px;
     background-color: white;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+
+     -webkit-border-radius-topleft: 10px;
+    -webkit-border-radius-bottomright: 10px;
+    -webkit-border-radius-bottomleft: 10px;
 }
 
 #navigation div.section div.body ul
