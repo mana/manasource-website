@@ -22,6 +22,3 @@ class Main extends Controller {
         $this->output->showPage('download');
     }
 }
-
-/* End of file welcome.php */
-/* Location: ./system/application/controllers/welcome.php */

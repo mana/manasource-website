@@ -1,6 +1,6 @@
-   <div class="block">
-
-    <h2>Development</h2>
+<div class="section">
+    <div class="header">Development</div>
+    <div class="body">
 
     <h3>Contact</h3>
 
@@ -15,4 +15,5 @@
     <p>Running at <a href="http://testing.manasource.org">http://testing.manasource.org</a>.</p>
 
    </div>
+</div>
 

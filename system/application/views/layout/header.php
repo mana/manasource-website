@@ -17,24 +17,12 @@
             <a href="irc://irc.freenode.net/manasource">#manasource<br />irc.freenode.net</a>
         </div>
         <h1>
-            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
-                width="214" height="89" alt="mana source" border="0"/>
+            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo-de.png"
+                width="280" height="89" alt="mana source" border="0"/>
             </a>
         </h1>
         <div id="navigation">
-
-            <div class="section">
-                <div class="header">Navigation ::</div>
-                <div class="body">
-                    <ul>
-                        <li><a href="<?= site_url('main') ?>">Startseite</a></li>
-                        <li><a href="<?= site_url('main/development') ?>">Entwicklung</a></li>
-                        <li><a href="<?= site_url('main/downloads') ?>">Downloads</a></li>
-                    </ul>
-                </div>
-            </div>
-
-
+        <?php require_once("navigation.php"); ?>
         </div>
         <div id="content">
 
