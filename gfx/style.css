@@ -28,13 +28,23 @@ body {
 
 #main {
     border: 1px solid black;
-    width: 700px;
+    width: 900px;
     padding: 20px;
     margin: 20px auto 20px auto;
     /*-moz-border-radius: 10px;*/
     border-right-width: 2px;
     border-bottom-width: 2px;
     background-color: #fbf4e2;
+}
+
+
+#content {
+    width: 700px;
+}
+
+#navigation {
+    width: 200px;
+    float: right;
 }
 
 a {
@@ -80,45 +90,64 @@ h3 {
     font-weight: bold;
 }
 
-#menu {
-    float: right;
-    margin: 60px 0px 0px 0px;
-    padding: 0px;
-    list-style-type: none;
+
+#content div.section div.header
+{
+    text-align: left;
+    color: #ff6600;
     font-weight: bold;
+    padding: 5px 0px 0px 10px;
+    background-image: url(content-head-bg.png);
+    background-repeat: no-repeat;
+    height: 23px;
+    margin-top: 20px;
+}
+
+#content div.section div.body
+{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+    background-color: white;
+}
+
+/* Navigation */
+#navigation div.section
+{
+    margin: 20px 0px 0px 10px;
+    /*-moz-border-radius: 10px;*/
     font-size: 14px;
 }
 
-#menu li {
-    float: left;
-    display: block;
-    margin: 0px 0px 0px 10px;
+#navigation div.section div.header
+{
+    text-align: right;
+    color: #ff6600;
+    font-weight: bold;
+    padding: 5px 10px 0px 0px;
+    background-image: url(nav-head-bg.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    height: 23px;
 }
 
-#menu li a {
-    text-decoration: none;
-    color: black;
-    padding: 10px 20px;
-    /*-moz-border-radius: 5px;*/
-}
-
-#menu li a:hover {
-    background-color: #d9d0b8;
-}
-
-#menu li a.current {
-    background-color: #e6dfcf;
-}
-
-#menu li a.current:hover {
-    background-color: #d9d0b8;
-}
-
-div.block {
+#navigation div.section div.body
+{
+    text-align: right;
     border: 1px solid gray;
-    padding: 10px;
-    margin: 20px 0px 0px 0px;
-    /*-moz-border-radius: 10px;*/
-    font-size: 12px;
+    padding: 5px 10px 5px 5px;
     background-color: white;
+}
+
+#navigation div.section div.body ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#navigation div.section div.body li
+{
+    padding: 3px;
 }

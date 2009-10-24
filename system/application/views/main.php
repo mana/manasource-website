@@ -1,7 +1,7 @@
-   <div class="block">
-
-    <h2>About The Mana Project</h2>
-
+   
+<div class="section">
+    <div class="header">About The Mana Project</div>
+    <div class="body">
     <p>The Mana project builds a complete 2D MMORPG platform. This includes a
     client, server and web component, as well as a library of free content that
     you can use under the terms of the GPL.</p>
@@ -12,12 +12,12 @@
     separating server/client development from a single player community, we
     hope to achieve better cooperation with alternative Mana server based
     projects.</p>
+    </div>
+</div>
 
-   </div>
-
-   <div class="block">
-
-    <h2>Recent News</h2>
+<div class="section">
+    <div class="header">Recent News</div>
+    <div class="body">
 
     <h3>The Mana Project Started!</h3>
 
@@ -43,4 +43,5 @@
     community.</p>
 
     <p><i>Thorbjørn Lindeijer - Oct 24, 2009</i></p>
-   </div>
+    </div>
+</div>
