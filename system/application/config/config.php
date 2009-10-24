@@ -11,8 +11,14 @@
 |	http://example.com/
 |
 */
-//$config['base_url']	= "http://localhost/webseiten/manasource.de/www/";
-$config['base_url']	= "http://manasource.de/";
+if ($_SERVER['SERVER_ADDR'] == '127.0.0.1')
+{
+    $config['base_url']	= "http://localhost/webseiten/manasource.de/www/";
+}
+else
+{
+    $config['base_url']	= "http://manasource.de/";
+}
 
 /*
 |--------------------------------------------------------------------------

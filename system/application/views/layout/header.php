@@ -11,13 +11,17 @@
 
 <body>
     <div id="area">
+
     <div id="main">
-    <ul id="menu">
-        <li><a href="<?= site_url('main/downloads') ?>">downloads</a></li>
-        <li><a href="<?= site_url('main/development') ?>">development</a></li>
-    </ul>
-    <h1>
-        <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
-            width="214" height="89" alt="mana source" border="0"/>
-        </a>
-    </h1>
+        <div id="irc_hint">
+            <a href="irc://irc.freenode.net/manasource">#manasource<br />irc.freenode.net</a>
+        </div>
+        <ul id="menu">
+            <li><a href="<?= site_url('main/downloads') ?>">downloads</a></li>
+            <li><a href="<?= site_url('main/development') ?>">development</a></li>
+        </ul>
+        <h1>
+            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
+                width="214" height="89" alt="mana source" border="0"/>
+            </a>
+        </h1>

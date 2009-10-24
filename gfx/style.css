@@ -1,15 +1,29 @@
 
+/*
+color definitions:
+    orange in logo:     #ff6600;
+    gray in logo:       #919191;
+    background:         fbf4e2;
+*/
+
 body {
     text-align: center;
     margin: 0px;
     padding: 0px;
     font-family: 'Verdana', sans-serif;
+    background-color: #919191;
+    background-image: url(bgheader.png);
+    background-repeat:repeat-x;
+    background-position:0px -1px;
 }
 
 #area {
     text-align:left;
     margin: 0 auto;
-    width: 742px;
+    min-height: 800px;
+    background-image: url(manasource-logo-bg.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
 }
 
 #main {
@@ -23,8 +37,31 @@ body {
     background-color: #fbf4e2;
 }
 
+a {
+    color:  #ff6600;
+    text-decoration: none;
+}
+
+a:hover {
+     color:  #ff3300;
+}
+
+a:visited {
+    color:  #ff6600;
+    text-decoration: none;
+}
+
+#irc_hint {
+    float: right;
+    font-size: 8pt;    
+}
+
+#irc_hint a {
+    color: #a0a070;
+}
+
 #w3cfooter {
-    text-align: right;
+    text-align: center;
 }
 
 h1 {
