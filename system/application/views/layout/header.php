@@ -20,7 +20,7 @@
             <a href="irc://irc.freenode.net/manasource">#manasource<br />irc.freenode.net</a>
         </div>
         <h1>
-            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
+            <a href="<?= site_url('news') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
                  height="89" alt="mana source" border="0"/>
             </a>
         </h1>
