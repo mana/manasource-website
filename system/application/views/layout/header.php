@@ -6,6 +6,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>manasource.de</title>
 
+    <link rel="shortcut icon" href="<?= base_url() ?>gfx/mana-logo-16.png" type="image/png"/>
+    <link rel="icon" href="<?= base_url() ?>gfx/mana-logo-16.png" type="image/png"/>
+
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>gfx/style.css" />
 </head>
 
@@ -17,8 +20,8 @@
             <a href="irc://irc.freenode.net/manasource">#manasource<br />irc.freenode.net</a>
         </div>
         <h1>
-            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo-de.png"
-                width="280" height="89" alt="mana source" border="0"/>
+            <a href="<?= site_url('main') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
+                 height="89" alt="mana source" border="0"/>
             </a>
         </h1>
         <div id="navigation">
