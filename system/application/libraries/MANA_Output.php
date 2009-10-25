@@ -21,11 +21,11 @@
 
 
 /**
- * The MS_Output extends the output library shipped with codeigniter.
+ * The MANA_Output extends the output library shipped with codeigniter.
  *
  * @ingroup libraries
  */
-class MS_Output extends CI_Output
+class MANA_Output extends CI_Output
 {
 
     /**
@@ -62,5 +62,5 @@ class MS_Output extends CI_Output
         $CI->load->view('layout/footer');
     }
 
-} // class MS_Output
+} // class MANA_Output
 ?>
