@@ -17,7 +17,7 @@ if ($_SERVER['SERVER_ADDR'] == '127.0.0.1')
 }
 else
 {
-    $config['base_url']	= "http://manasource.de/";
+    $config['base_url']	= "http://manasource.org/";
 }
 
 /*

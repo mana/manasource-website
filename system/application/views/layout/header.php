@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>manasource.de</title>
+    <title>manasource.org</title>
 
     <link rel="shortcut icon" href="<?= base_url() ?>gfx/mana-logo-16.png" type="image/png"/>
     <link rel="icon" href="<?= base_url() ?>gfx/mana-logo-16.png" type="image/png"/>
