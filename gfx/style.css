@@ -19,7 +19,7 @@ body {
 
 #area {
     text-align:left;
-    margin: 0 auto;
+    margin: 0px 10px auto 10px;
     min-height: 800px;
     background-image: url(manasource-logo-bg.png);
     background-position: bottom left;
@@ -28,7 +28,7 @@ body {
 
 #main {
     border: 1px solid black;
-    width: 900px;
+    width: 700px;
     padding: 20px;
     margin: 20px auto 20px auto;
     -moz-border-radius: 10px;
@@ -40,7 +40,7 @@ body {
 
 
 #content {
-    width: 700px;
+    width: 500px;
 }
 
 #navigation {
