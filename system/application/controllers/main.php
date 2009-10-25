@@ -14,7 +14,7 @@ class Main extends Controller {
 
     function development()
     {        
-        $this->output->showPage('development',df,234);
+        $this->output->showPage('development');
     }
 
     function downloads()
