@@ -30,7 +30,14 @@ else
 | variable so that it is blank.
 |
 */
-$config['index_page'] = "index.php";
+if ($_SERVER['SERVER_ADDR'] == '127.0.0.1')
+{
+    $config['index_page'] = "index.php";
+}
+else
+{
+    $config['index_page']	= "";
+}
 
 /*
 |--------------------------------------------------------------------------
