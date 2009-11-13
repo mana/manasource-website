@@ -17,7 +17,7 @@
 
     <div id="main">
         <div id="irc_hint">
-            <a href="irc://irc.freenode.net/manasource">#manasource<br />irc.freenode.net</a>
+            <a href="irc://irc.freenode.net/mana">#mana<br />irc.freenode.net</a>
         </div>
         <h1>
             <a href="<?= site_url('news') ?>"><img src="<?= base_url() ?>gfx/manasource-logo.png"
