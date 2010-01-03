@@ -4,7 +4,7 @@
 
    <h3>Contact</h3>
 
-    <p>We hang out on <b>irc.freenode.net</b> in the <b>#manasource</b> channel
+    <p>We hang out on <b>irc.freenode.net</b> in the <b>#mana</b> channel
     and we're using a <a href="http://lists.manasource.org/">mailing list</a>
     to communicate outside of IRC (though mailing list membership has to be
     manually approved so that we don't have to face spam).</p>
