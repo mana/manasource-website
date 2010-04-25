@@ -24,7 +24,7 @@ body {
 }
 
 #main {
-    width: 900px;
+    max-width: 900px;
     padding: 20px;
     margin: 20px auto 20px auto;
     -moz-border-radius: 10px;
@@ -34,7 +34,7 @@ body {
 
 
 #content {
-    width: 700px;
+    margin-right: 200px;
 }
 
 #navigation {
