@@ -2,9 +2,10 @@
     <div class="header">Downloads</div>
     <div class="body">
 
-    <h3>Mana client 1.0.0-beta</h3>
-    <p>The 1.0.0 release of the client is close. Meanwhile, please help us testing it by trying out this beta!</p>
-    <p>Source: <a href="http://manasource.org/files/mana-1.0.0-beta.tar.gz">mana-1.0.0-beta.tar.gz</a> (2 MB)</p>
+    <h3>Mana client 1.0.0-beta2</h3>
+    <p>The 1.0.0 release of the client is close. Meanwhile, please help us testing it by trying out the second beta!</p>
+    <p>Source: <a href="http://manasource.org/files/mana-1.0.0-beta2.tar.gz">mana-1.0.0-beta2.tar.gz</a> (2 MB)</p>
+    <p><i><a href="Changes since the first beta">http://manasource.org/files/mana-1.0.0-beta2-shortlog.txt</a></i></p>
 
     <h3>Nightlies for Windows</h3>
 
