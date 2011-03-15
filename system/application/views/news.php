@@ -19,6 +19,19 @@
     <div class="header">Recent News</div>
     <div class="body">
 
+    <h3>Mana client 0.5.1 released</h3>
+
+    <p>This is mainly a bugfix release, with some minor new features related
+    to pickup notifications and supported tile map formats. Pasting under X11
+    was fixed and some branding issues were resolved. Also, German, French,
+    Russian and Brazilian Portuguese translations were updated.</p>
+
+    <p>Thanks to all who have contributed to this release! As usual the <a
+    href="http://manasource.org/files/mana-0.5.1-shortlog.txt">shortlog</a>
+    provides the detailed list of changes.</p>
+
+    <p><i>Thorbjørn Lindeijer - March 14, 2011</i></p>
+
     <h3>Mana client 0.5.0 released</h3>
 
     <p>It's been a while since our two beta releases, and since then a lot
