@@ -19,6 +19,17 @@
     <div class="header">Recent News</div>
     <div class="body">
 
+    <h3>Mana client 0.5.2 released</h3>
+
+    <p>This is the second bugfix release since 0.5.0. One noticable adjustment
+    is that trade NPCs will no longer spam the chat with a message for each
+    bought or sold item. Also, the French and Finnish translations were
+    updated. The full list of changes is detailed in the <a
+    href="http://manasource.org/files/mana-0.5.2-shortlog.txt">shortlog</a>.
+    </p>
+
+    <p><i>Thorbjørn Lindeijer - April 16, 2011</i></p>
+
     <h3>Mana client 0.5.1 released</h3>
 
     <p>This is mainly a bugfix release, with some minor new features related
