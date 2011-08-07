@@ -15,7 +15,7 @@
 
     <h3>Git repositories</h3>
 
-    <p>Available at <a href="http://gitorious.org/mana">http://gitorious.org/mana</a>.</p>
+    <p>Available at <a href="http://github.com/mana">http://github.com/mana</a>.</p>
 
     <h3>Testing server</h3>
 
@@ -28,7 +28,7 @@ function repo_status($project, $dir)
     chdir($dir);
     $sha = exec('git log -1 --format=%H');
     echo "<b>$project</b> ";
-    echo "<a href=\"http://gitorious.org/mana/$project/commits/$sha\">$sha</a>";
+    echo "<a href=\"http://github.com/mana/$project/commit/$sha\">$sha</a>";
     echo "\n";
 }
 
