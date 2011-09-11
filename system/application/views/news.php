@@ -19,6 +19,14 @@
     <div class="header">Recent News</div>
     <div class="body">
 
+    <h3>Mana client 0.5.3 released</h3>
+
+    <p>Another small bugfix release. See the <a
+    href="http://manasource.org/files/mana-0.5.3-shortlog.txt">shortlog</a>
+    for the details.</p>
+
+    <p><i>Thorbjørn Lindeijer - September 11, 2011</i></p>
+
     <h3>Mana client 0.5.2 released</h3>
 
     <p>This is the second bugfix release since 0.5.0. One noticable adjustment
