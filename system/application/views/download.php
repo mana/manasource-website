@@ -10,6 +10,7 @@
     <li><p>Ubuntu (and derivatives): use our <a
     href="https://launchpad.net/~mana-developers/+archive/ppa"/>Mana PPA</a> to
     install either stable releases or dailies.</p></li>
+    <li><p>Fedora and openSUSE: packages built by the <a href="http://software.opensuse.org/download/package?project=games&package=mana">openSUSE Build Service</a>.</p></li>
     </ul>
 
     <p>See our wiki for <a
