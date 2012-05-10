@@ -7,6 +7,7 @@
 
     <ul>
     <li><p>Source: <a href="http://manasource.org/files/mana-0.6.1.tar.gz">mana-0.6.1.tar.gz</a> (4.5 MB)</p></li>
+    <li><p>Windows: <a href="http://manasource.org/files/mana-0.6.1-win32.exe">mana-0.6.1-win32.exe</a> (5.8 MB)</p></li>
     <li><p>Ubuntu (and derivatives): use our <a
     href="https://launchpad.net/~mana-developers/+archive/ppa"/>Mana PPA</a> to
     install either stable releases or dailies.</p></li>

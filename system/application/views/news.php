@@ -19,6 +19,20 @@
     <div class="header">Recent News</div>
     <div class="body">
 
+    <h3>Mana client 0.6.1 released</h3>
+
+    <p>This release fixes a few annoyances and other small bugs. It is now
+    easier to click beings that are close to other beings, NPC trading has been
+    removed from chat (again), the last emote can now be used and ring and
+    necklace slots were unswapped. Also, the Finnish, Brazilian Portuguese and
+    Polish translations were updated.</p>
+
+    <p>Thanks to all contributers to this release! The <a
+    href="http://manasource.org/files/mana-0.6.1-shortlog.txt">shortlog</a>
+    provides the detailed list of changes.</p>
+
+    <p><i>Thorbjørn Lindeijer - April 8, 2012</i></p>
+
     <h3>Mana client 0.6.0 released</h3>
 
     <p>A lot has happened since our last feature release. Too much, in fact,
