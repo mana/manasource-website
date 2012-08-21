@@ -29,6 +29,7 @@ body {
     margin: 20px auto 20px auto;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
+    border-radius: 10px;
     background-color: #fffcf2;
 }
 
