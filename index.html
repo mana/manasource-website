@@ -1,0 +1,33 @@
+---
+layout: default
+title: Home
+---
+
+<div class="section">
+    <div class="header">About The Mana Project</div>
+    <div class="body">
+    <p>The Mana project builds a complete 2D MMORPG platform. This includes a
+    client, server and web component, as well as a library of free content that
+    you can use under the terms of the GPL.</p>
+
+    <p>While this project started in 2009, the Mana client, server and web
+    components were formerly being developed as part of <a
+     href="http://themanaworld.org/">The Mana World</a> since 2004. By
+    separating server/client development from a single player community, we
+    hope to achieve better cooperation with alternative Mana server based
+    projects.</p>
+    </div>
+</div>
+
+<div class="section">
+    <div class="header">Recent News</div>
+    <div class="body">
+
+{% for post in site.categories.news %}
+  <h3>{{ post.title }}</h3>
+  {{ post.content }}
+  <p><i>{{ post.author }} - {{ post.date | date_to_string }}</i></p>
+{% endfor %}
+
+    </div>
+</div>

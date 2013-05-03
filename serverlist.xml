@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<serverlist version="1">
+  <server name="The Mana World" type="eathena">
+    <connection hostname="server.themanaworld.org" port="6901" protocol="TCP" />
+    <state>PRODUCTION</state>
+    <support>http://themanaworld.org/</support>
+    <description>Join adventures with people from all over the world.</description>
+  </server>
+
+  <server name="The Mana World (German)" type="eathena">
+    <connection hostname="germantmw.de" port="6901" protocol="TCP" />
+    <state>DEVELOPMENT</state>
+    <support>http://germantmw.de/</support>
+  </server>
+
+  <server name="The Mana World (Brazil)" type="eathena">
+    <connection hostname="server.themanaworld.com.br" port="6901" protocol="TCP" />
+    <state>PRODUCTION</state>
+    <support>http://www.themanaworld.com.br/</support>
+  </server>
+
+  <server name="The Mana World (Testing)" type="eathena">
+    <connection hostname="caliban.homeip.net" port="6901" protocol="TCP" />
+    <state>TEST</state>
+    <support>http://themanaworld.org/</support>
+    <description>New content can be tested here before release.</description>
+  </server>
+
+  <!--
+  Disabled because the content is incompatible with the Mana client.
+
+  <server name="Evol Online" type="eathena">
+    <connection hostname="world.evolonline.org" port="6901" protocol="TCP" />
+    <state>DEVELOPMENT</state>
+    <support>http://evolonline.org/</support>
+    <description>Evol Online Beta server.</description>
+  </server>
+  -->
+
+  <!--
+  <server name="Invertika" type="manaserv">
+    <connection hostname="server.invertika.org" port="9601" protocol="UDP" />
+    <state>PRODUCTION</state>
+    <support>http://www.invertika.org/</support>
+  </server>
+
+  <server name="Invertika (testing)" type="manaserv">
+    <connection hostname="singularity.invertika.org" port="9601" protocol="UDP" />
+    <state>TEST</state>
+    <support>http://www.invertika.org/</support>
+  </server>
+  -->
+  <server name="Source of Tales" type="manaserv">
+    <connection hostname="testing.manasource.org" port="9601" protocol="UDP" />
+    <description>The LPC 2012 entry by the Mana team.</description>
+    <state>TEST</state>
+    <support>http://manasource.org/</support>
+  </server>
+  <!--
+  <server name="Invertika (development)" type="manaserv">
+    <connection hostname="serenity.invertika.org" port="9601" protocol="UDP" />
+    <state>DEVELOPMENT</state>
+    <support>http://www.invertika.org/</support>
+  </server>
+  -->
+</serverlist>

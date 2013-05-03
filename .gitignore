@@ -1,2 +1,2 @@
-# ignore Netbeans project files
-nbproject/
+# ignore the generated site
+_site/
