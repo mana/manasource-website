@@ -10,5 +10,5 @@ was fixed and some branding issues were resolved. Also, German, French,
 Russian and Brazilian Portuguese translations were updated.
 
 Thanks to all who have contributed to this release! As usual the <a
-href="http://manasource.org/files/mana-0.5.1-shortlog.txt">shortlog</a>
+href="http://files.manasource.org/mana-0.5.1-shortlog.txt">shortlog</a>
 provides the detailed list of changes.

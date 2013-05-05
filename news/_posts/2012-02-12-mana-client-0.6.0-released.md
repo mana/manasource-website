@@ -25,7 +25,7 @@ also been made to handling of hair colors and styles.
 The complete summary of the changes can be found in the <a
 href="http://github.com/mana/mana/blob/master/NEWS">NEWS</a> file and the nitty
 details can be found in the <a
-href="http://manasource.org/files/mana-0.6.0-shortlog.txt">shortlog</a>. Thanks
+href="http://files.manasource.org/mana-0.6.0-shortlog.txt">shortlog</a>. Thanks
 to all who helped make this release possible!
 
 The client comes with updated translations to German, French and Spanish. We

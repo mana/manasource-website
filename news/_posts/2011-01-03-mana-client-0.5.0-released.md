@@ -16,7 +16,7 @@ for manaserv.
 The most active developer since 1.0.0-beta2 was Stefan Dombrowski, who
 literally went on a fixing spree. Several others also contributed fixes and
 improvements, which is detailed in the <a
-href="http://manasource.org/files/mana-0.5.0-shortlog.txt">shortlog</a>.
+href="http://files.manasource.org/mana-0.5.0-shortlog.txt">shortlog</a>.
 Apart from fixes, this release also introduces support for an away mode
 (/away command), an option to disable transparency for slow CPUs, proper
 support for servers that don't allow registration from the client and the

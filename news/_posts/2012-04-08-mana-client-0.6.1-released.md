@@ -11,5 +11,5 @@ unswapped. Also, the Finnish, Brazilian Portuguese and Polish translations were
 updated.
 
 Thanks to all contributers to this release! The <a
-href="http://manasource.org/files/mana-0.6.1-shortlog.txt">shortlog</a>
+href="http://files.manasource.org/mana-0.6.1-shortlog.txt">shortlog</a>
 provides the detailed list of changes.
