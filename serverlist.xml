@@ -54,7 +54,7 @@
     <connection hostname="testing.manasource.org" port="9601" protocol="UDP" />
     <description>The LPC 2012 entry by the Mana team.</description>
     <state>TEST</state>
-    <support>http://manasource.org/</support>
+    <support>http://www.manasource.org/</support>
   </server>
   <!--
   <server name="Invertika (development)" type="manaserv">

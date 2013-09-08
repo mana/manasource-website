@@ -5,7 +5,7 @@
             "hostname": "testing.manasource.org",
             "port": 9601,
             "description": "The LPC 2012 entry by the Mana team.",
-            "website": "http://manasource.org/",
+            "website": "http://www.manasource.org/",
             "state": "TEST"
         }
     ]
