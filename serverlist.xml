@@ -20,7 +20,7 @@
   </server>
 
   <server name="The Mana World (Testing)" type="eathena">
-    <connection hostname="caliban.homeip.net" port="6901" protocol="TCP" />
+    <connection hostname="testing.themanaworld.org" port="6902" protocol="TCP" />
     <state>TEST</state>
     <support>http://themanaworld.org/</support>
     <description>New content can be tested here before release.</description>
